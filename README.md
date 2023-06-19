@@ -20,7 +20,7 @@ vscode应用商店中搜索"**sw-layout-snippets**".
 ![GIF](https://raw.githubusercontent.com/QShengW/demo-gif/main/search-sw.gif)
 
 ## 👩‍🏫布局效果
-##### search-sw
+### search-sw
 ![GIF](https://raw.githubusercontent.com/QShengW/demo-gif/main/search-sw.gif)
-##### banner-sw
+### banner-sw
 ![GIF](https://raw.githubusercontent.com/QShengW/demo-gif/main/banner-sw.gif)
