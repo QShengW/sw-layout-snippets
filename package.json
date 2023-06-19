@@ -1,0 +1,31 @@
+{
+  "name": "sw-layout-snippets",
+  "displayName": "sw-layout-snippets",
+  "description": "sw-layout-snippets 是一个强大的 VS Code 插件，旨在帮助你快速满足日常手机端布局需求。它提供了一系列实用工具和代码片段，使你能够更轻松地开发响应式和移动友好的网页和应用程序。",
+  "version": "0.0.1",
+  "publisher": "qsw",
+  "repository": "https://github.com/QShengW/sw-layout-snippets",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      },{
+        "language": "vue",
+        "path": "./snippets/snippets.code-snippets"
+      },{
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      },{
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
