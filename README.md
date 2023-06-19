@@ -1,4 +1,4 @@
-# sw-layout-snippets
+# sw-layout-snippets ![已收录常用布局11个](https://img.shields.io/badge/已收录常用布局-11个-673ab7.svg) 
 🦕 常用移动端布局大全
 sw-layout-snippets 是一个强大的 VS Code 插件，旨在帮助你快速满足日常手机端布局需求。它提供了一系列实用代码片段，使你能够更轻松地开发响应式和移动友好的网页和应用程序。
 
